@@ -7,9 +7,9 @@ Projeto:
 Os proprietários de uma faculdade precisam de um sistema que viabilize o armazenamento de informações sobre seus alunos, cursos, matérias e professores para que seja possível realizar controles básicos como montar turmas e armazenar notas dos alunos.
 Com base no que foi apresentado, o objetivo é criar um banco de dados que ofereça suporte para que o sistema possa atender às necessidades do cliente. Abaixo estão as respostas detalhadas para cada questão proposta, além da modelagem sugerida.
 ________________________________________
-3. Objetivos
+Objetivos
 
-3.1 Objetivos de Aprendizagem (Plano de Aprendizagem):
+Objetivos de Aprendizagem (Plano de Aprendizagem):
 
 •	Análise de Requisitos: Identificar as necessidades do cliente e definir quais dados serão necessários.
 
