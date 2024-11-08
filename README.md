@@ -442,7 +442,7 @@ Tabela: Notas
 •	avaliacao (VARCHAR(50)) - Ex: "Prova 1", "Trabalho Final"
 
 ________________________________________
-3. Tipos de Dados Utilizados
+8. Tipos de Dados Utilizados
 
 •	INT: Para identificadores e duração.
 
@@ -457,7 +457,7 @@ ________________________________________
 
 
 
-8.Modelo Físico
+9. Modelo Físico
 
 CREATE DATABASE Faculdade;
 
